@@ -6,7 +6,7 @@ A Chinese language learning platform built with React, featuring an AI-powered c
 
 This project was created while learning frontend development, exploring modern React patterns, CSS animations, and responsive design.
 
-## Features
+## Future Features
 
 - AI conversational tutor with voice analysis
 - Personalized quizzes and assessments
