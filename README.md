@@ -28,7 +28,7 @@ cd deeplaoshi
 npm install
 
 # Start development server
-npm start
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the application.
@@ -40,6 +40,7 @@ The application is deployed at: [https://deeplaoshi.web.app](https://deeplaoshi.
 ## Technology Stack
 
 - React 19
+- Vite
 - Framer Motion for animations
 - CSS3 with custom properties
 - Firebase for hosting
